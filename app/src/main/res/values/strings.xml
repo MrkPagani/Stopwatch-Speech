@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Stowatch&amp;Speech</string>
+    <string name="hint">Tap Mic untuk memulai</string>
 </resources>
